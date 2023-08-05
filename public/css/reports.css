@@ -1,0 +1,100 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  background-color: #2B2B2B;
+}
+
+.editDelete {
+  float: right;
+  margin: 3px;
+  padding: 3px 10px;
+}
+#png {
+  margin-right: 10px;
+}
+#navigation {
+  background-color: #000000;
+}
+#form1 {
+  border-radius: 10px;
+  background-color: #434242;
+  box-shadow: 4px 4px 9px #000000;
+  margin: 20px 193px;
+  color: white;
+}
+#table {
+  border-radius: 10px;
+  background-color: #434242;
+  box-shadow: 4px 4px 9px #000000;
+  color: white;
+}
+#table1{
+  color: white;
+}
+#table2{
+  color: white;
+}
+#submitBtn {
+  width: 140px;
+  background-color: #000000;
+  border-color: #000000;
+  color: white;
+}
+#dateShowBtn{
+  background-color: #000000;
+  color: white;
+  border-color: #000000;
+}
+#monthShowBtn{
+  background-color: #000000;
+  color: white;
+  border-color: #000000;
+}
+.topBtn {
+  background-color: #2B2B2B;
+  border-color: #000000;
+  color: white;
+}
+#year-input {
+  background-color: white;
+  width: auto;
+  border: 1px;
+  border-radius: 7px;
+  color: #000000;
+  padding: 7px;
+  margin: 7px -4px;
+}
+
+#category {
+  width: 300px;
+}
+.input-group-text {
+  background-color: #000000;
+  color: white;
+  border: none;
+}
+#description {
+  width: 2000px;
+}
+
+.trStyle {
+  background-color: transparent;
+}
+
+.topBtn:hover {
+  background-color: #000000;
+  color: white;
+  border-color: #000000;
+}
+.editDelete {
+  background-color: #000000;
+  border: none;
+}
+
+#dailyTotal,
+#dailyTotalAmount,
+#monthlyTotal,
+#monthlyTotalAmount {
+  font-weight: bolder !important;
+}

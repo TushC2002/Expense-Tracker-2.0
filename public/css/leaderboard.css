@@ -1,0 +1,46 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  background-color: #2B2B2B
+}
+
+
+#png {
+  margin-right: 10px;
+}
+
+#table {
+  border-radius: 10px;
+  background-color: #434242;
+  box-shadow: 4px 4px 9px #000000;
+  color: antiquewhite;
+}
+#table thead{
+  color: white;
+}
+
+#table tr{
+  color: white;
+}
+
+.topBtn {
+  background-color: #2B2B2B;
+  border-color: #000000;
+  color: white;
+}
+#navigation {
+  background-color: #000000;
+}
+
+
+.trStyle {
+  background-color: transparent;
+}
+
+.topBtn:hover {
+  background-color: #000000;
+  color: white;
+  border-color: #000000;
+}
+
